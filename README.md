@@ -1,2 +1,2 @@
 # Spectral
-Next-Gen Unity Temporal Anti Aliasing (TXAA)
+NextGen Unity Temporal Anti-Aliasing (TXAA)
